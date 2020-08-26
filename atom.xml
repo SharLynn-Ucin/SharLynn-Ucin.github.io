@@ -5,9 +5,9 @@
   <subtitle>达则兼济天下尤物，懒人改变世界劳模！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="sharlynn.club/"/>
+  <link href="sharlynn-ucin.github.io/"/>
   <updated>2020-07-18T04:32:06.000Z</updated>
-  <id>sharlynn.club/</id>
+  <id>sharlynn-ucin.github.io/</id>
   
   <author>
     <name>凹凸曼</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo，从此开始...</title>
-    <link href="sharlynn.club/helloworld/"/>
-    <id>sharlynn.club/helloworld/</id>
+    <link href="sharlynn-ucin.github.io/helloworld/"/>
+    <id>sharlynn-ucin.github.io/helloworld/</id>
     <published>2019-12-31T16:00:00.000Z</published>
     <updated>2020-07-18T04:32:06.000Z</updated>
     
@@ -32,12 +32,12 @@
     
     </summary>
     
-      <category term="做网站" scheme="sharlynn.club/categories/%E5%81%9A%E7%BD%91%E7%AB%99/"/>
+      <category term="做网站" scheme="sharlynn-ucin.github.io/categories/%E5%81%9A%E7%BD%91%E7%AB%99/"/>
     
     
-      <category term="Hexo" scheme="sharlynn.club/tags/Hexo/"/>
+      <category term="Hexo" scheme="sharlynn-ucin.github.io/tags/Hexo/"/>
     
-      <category term="博客建站" scheme="sharlynn.club/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
+      <category term="博客建站" scheme="sharlynn-ucin.github.io/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
     
   </entry>
   
